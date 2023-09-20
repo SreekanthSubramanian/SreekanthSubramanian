@@ -22,6 +22,10 @@ Hello there, fellow data explorer! I'm on a quest to unlock the mysteries of art
 - <img src="https://www.blender.org/img/logo.svg" alt="Blender" height="20"> Blender
 - <img src="https://docs.opencv.org/4.5.2/opencv-logo.png" alt="OpenCV" height="20"> OpenCV
 
+languages python     tools godot git Unity     Views stats
+
+Student 》Pursuing Masters in Artificial Intelligence and Machine Learning
+Game Design and Development 》creating 2D and 3D video games using unity and godot
    
 
 🌐 Let's connect and explore the exciting world of AI and ML together!
