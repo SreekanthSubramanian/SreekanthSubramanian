@@ -10,16 +10,13 @@ Hello there, fellow data explorer! I'm on a quest to unlock the mysteries of art
 🌐 Collaborating on open-source AI projects that push the boundaries.
 🔬 Experimenting with data to uncover hidden insights.
 
-```python
-def about_me():
-    interests = ["🤖 AI", "🧠 Machine Learning", "📈 Data Science"]
-    tools = ["Python", "TensorFlow", "PyTorch", "Scikit-Learn"]
-    motto = "Data doesn't lie, it tells compelling stories."
 
-    print(f"My interests include: {', '.join(interests)}.")
-    print(f"Favorite tools: {', '.join(tools)}.")
-    print(f"My motto: {motto}")
 
-about_me()
+🌐 Let's connect and explore the exciting world of AI and ML together!
+
+📫 You can reach me at [sreesubu77@gmail.com](mailto:sreesubu77@gmail.com)
+🌐 Find me on [LinkedIn](https://www.linkedin.com/in/sreekanth-ai/) 
+
+🚀 On a journey to transform data into intelligence, one step at a time.
 
 
