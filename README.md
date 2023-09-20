@@ -14,16 +14,6 @@ Hello there, fellow data explorer! I'm on a quest to unlock the mysteries of art
 🔬 Experimenting with data to uncover hidden insights.
 
 
-🛠️ **Favorite Tools**:
-- ![Python](https://www.python.org/static/community_logos/python-logo.png =40x40) Python
-- ![TensorFlow](https://www.tensorflow.org/images/tf_logo_social.png =40x40) TensorFlow
-- ![PyTorch](https://pytorch.org/assets/images/pytorch-logo.png =40x40) PyTorch
-- ![Scikit-Learn](https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png =40x40) Scikit-Learn
-- ![Jupyter](https://jupyter.org/assets/main-logo.svg =40x40) Jupyter
-- ![Blender](https://www.blender.org/img/logo.svg =40x40) Blender
-- ![OpenCV](https://docs.opencv.org/4.5.2/opencv-logo.png =40x40) OpenCV
-
-
 
    
 
