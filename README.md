@@ -6,8 +6,11 @@
 Hello there, fellow data explorer! I'm on a quest to unlock the mysteries of artificial intelligence and machine learning.
 
 📚 Currently diving deep into neural networks and algorithms.
+
 💡 Passionate about solving real-world problems with AI.
+
 🌐 Collaborating on open-source AI projects that push the boundaries.
+
 🔬 Experimenting with data to uncover hidden insights.
 
 
