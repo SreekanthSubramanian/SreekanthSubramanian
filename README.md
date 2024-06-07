@@ -24,9 +24,9 @@ Hi there 👋
 <br>
 <hr>
 
-[linkedin]: https://www.linkedin.com/in/kishorekumar-d-b68994203](https://www.linkedin.com/in/sreekanth-ai/
+[linkedin]: https://www.linkedin.com/in/sreekanth-ai/
 [twitter]: https://twitter.com/Kichu71340342
-[Instagram]: https://www.instagram.com/i__kichu/](https://www.instagram.com/sreekanth.08
+[Instagram]: https://www.instagram.com/sreekanth.08
 
 
 🚀 Navigating the world of AI, one line of code at a time
