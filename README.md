@@ -29,7 +29,8 @@
 [twitter]: https://twitter.com/Kichu71340342
 [Instagram]: https://www.instagram.com/sreekanth.08
 
+<h1 align="left">🚀 Navigating the world of AI, one line of code at a time </h1>
 
-🚀 Navigating the world of AI, one line of code at a time
+
 
 
