@@ -19,10 +19,22 @@ Hi there 👋
 - <img src="" alt="LinkedIn" height="20"> [LinkedIn](https://www.linkedin.com/in/sreekanth-ai/)
 - <img src="" height="20"> [Instagram](https://www.instagram.com/sreekanth.08)
 - <img src="" alt="Gmail" height="20"> [Gmail](mailto:sreesubu77@gmail.com)
+
+#### You can also find me on-
+
+[<img align="left" alt="Sarika | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="Sarika | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
+[<img align="left" alt="Sarika | Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][Instagram]
+
+
+
+<br>
+
+<hr>
+
 [linkedin]: https://www.linkedin.com/in/kishorekumar-d-b68994203/
 [twitter]: https://twitter.com/Kichu71340342
 [Instagram]: https://www.instagram.com/i__kichu/
-
 
 🚀 Navigating the world of AI, one line of code at a time
 
