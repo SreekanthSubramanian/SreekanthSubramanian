@@ -14,7 +14,7 @@
 
 🌐 Let's connect and explore the exciting world of AI and ML together!
 
-📫 Connect with me:
+
 
 📫 **You can also Connect with me on:**
 
