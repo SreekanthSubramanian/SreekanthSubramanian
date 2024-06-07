@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<h1 align="left">I'm SREEKANTH S 😇 </h1>
+<h1 align="left">I'm SREEKANTH S 😇😎🤗 </h1>
 
 📊Hello, and welcome to my GitHub profile! I am Sreekanth S, an AI and Machine Learning enthusiast with a passion for leveraging technology to solve real-world problems.
 
