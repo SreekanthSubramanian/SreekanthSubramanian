@@ -19,6 +19,10 @@ Hi there 👋
 - <img src="" alt="LinkedIn" height="20"> [LinkedIn](https://www.linkedin.com/in/sreekanth-ai/)
 - <img src="" height="20"> [Instagram](https://www.instagram.com/sreekanth.08)
 - <img src="" alt="Gmail" height="20"> [Gmail](mailto:sreesubu77@gmail.com)
+[linkedin]: https://www.linkedin.com/in/kishorekumar-d-b68994203/
+[twitter]: https://twitter.com/Kichu71340342
+[Instagram]: https://www.instagram.com/i__kichu/
+
 
 🚀 Navigating the world of AI, one line of code at a time
 
