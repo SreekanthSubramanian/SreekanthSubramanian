@@ -30,6 +30,10 @@
   <img src="https://img.shields.io/badge/Computer%20Vision-FF6F00?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/LangChain-ff0b37?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge&logo=natural-language-processing&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-5A29E4?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </p>
 
 📫 You can also Connect with me on:
