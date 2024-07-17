@@ -14,7 +14,7 @@
 
 🌐 Let's connect and explore the exciting world of AI and ML together!
 
-<h2 align="left">🔧 Technologies & Tools</h2>
+<h2 align="left">🔧 Tools & Technologies</h2>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
