@@ -40,7 +40,6 @@
 
 <img align="left" alt="LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />
 <img align="left" alt="Instagram" width="30px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />
-
 <br>
 <hr>
 <h1 align="left">🚀 Navigating the world of AI, one line of code at a time</h1>
