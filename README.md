@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
 </p>
 
-📊 Hello, and welcome to my GitHub profile! I am Sreekanth S, an AI and Machine Learning enthusiast with a passion for leveraging technology to solve real-world problems.
+📊 Hello, and welcome to my GitHub profile! I am Sreekanth S, an AI & ML enthusiast with a passion for leveraging technology to solve real-world problems.
  
 💡 I am dedicated to applying AI solutions to practical challenges, continuously seeking innovative ways to improve efficiency and outcomes.
 
